@@ -1,9 +1,9 @@
-<img src="assets/banner.png" alt="Аналитик данных. Excel, Google Таблицы, SQL, Python." width="100%">
+<img src="assets/cover.png" alt="Аналитик данных. Excel, Google Таблицы, SQL, Python." width="100%">
 
 
 ## Garmin → Google Sheets
 
-<img src="assets/metric-garmin.png" alt="Личный проект. Тренировки Garmin." width="100%">
+<img src="assets/card-garmin.png" alt="Личный проект. Тренировки Garmin." width="100%">
 
 Скрипт на Python сам забирает тренировки и метрики из Garmin в Google Таблицу. На их основе строится беговой дашборд: километры по неделям, тепловая карта за год, нагрузка и пульс.
 
@@ -15,7 +15,7 @@
 
 ## Яндекс.Практикум
 
-<img src="assets/metric-practicum.png" alt="Учебные проекты. Яндекс.Практикум." width="100%">
+<img src="assets/card-practicum.png" alt="Учебные проекты. Яндекс.Практикум." width="100%">
 
 15 учебных проектов курса Data Science: от анализа данных на Pandas до моделей машинного обучения. Среди них прогноз оттока клиентов телекома, оценка стоимости автомобиля, прогноз заказов такси на час вперёд, выбор региона нефтедобычи с оценкой риска и классификация токсичных комментариев.
 
