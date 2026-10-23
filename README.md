@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=data-witch&color=blue)
 
 ### [Сертификаты](https://github.com/data-witch/Sertificate)  
-### [Резюме](https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_list)  
+### [Резюме]([https://tomsk.hh.ru/resume/9499f6e7ff0b3dbc6e0039ed1f304e6f775441?hhtmFrom=resume_lis](https://tomsk.hh.ru/resume/6f9926f8ff101a2a020039ed1f344d38424947?hhtmFrom=profile)t)  
 
 
 
