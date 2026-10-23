@@ -5,7 +5,7 @@
 
 <img src="assets/metric-garmin.png" alt="Личный проект. Тренировки Garmin." width="100%">
 
-Тренировки и метрики Garmin сами попадают в таблицу бегового дашборда. Если Garmin ответил с ошибкой, уже заполненные ячейки не затираются.
+Скрипт на Python сам забирает тренировки и метрики из Garmin в Google Таблицу. На их основе строится беговой дашборд: километры по неделям, тепловая карта за год, нагрузка и пульс.
 
 ![Python](https://img.shields.io/badge/Python-24765B?style=flat-square&logo=python&logoColor=F4EFE8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-26364D?style=flat-square&logo=githubactions&logoColor=F4EFE8)
