@@ -3,7 +3,7 @@
 
 ## Garmin → Google Sheets
 
-<img src="assets/metric-garmin.png" alt="Тренировки Garmin в таблицу бегового дашборда, 2 раза в день." width="100%">
+<img src="assets/metric-garmin.png" alt="Личный проект. Тренировки Garmin." width="100%">
 
 Тренировки и метрики Garmin сами попадают в таблицу бегового дашборда. Если Garmin ответил с ошибкой, уже заполненные ячейки не затираются.
 
