@@ -11,7 +11,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-26364D?style=flat-square&logo=githubactions&logoColor=F4EFE8)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-24765B?style=flat-square&logo=googlesheets&logoColor=F4EFE8)
 
-[Открыть проект](https://github.com/data-witch/garmin-gsheets-run-sync)
+[Открыть проект](https://github.com/data-witch/garmin-gsheets-run-sync) · [Беговой дашборд](https://docs.google.com/spreadsheets/d/1CV5KDtmQUgRjUuY1CqJirFe0g8ncAFjuLdTdZ7djbok/edit?gid=1874797341#gid=1874797341)
 
 ## Яндекс.Практикум
 
