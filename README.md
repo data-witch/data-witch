@@ -17,7 +17,7 @@
 
 <img src="assets/metric-practicum.png" alt="Учебные проекты. Яндекс.Практикум." width="100%">
 
-Учебные проекты в одном репозитории: музыка, кредиты, недвижимость, тарифы, отток и классификация.
+15 учебных проектов курса Data Science: от анализа данных на Pandas до моделей машинного обучения. Среди них прогноз оттока клиентов телекома, оценка стоимости автомобиля, прогноз заказов такси на час вперёд, выбор региона нефтедобычи с оценкой риска и классификация токсичных комментариев.
 
 ![Python](https://img.shields.io/badge/Python-24765B?style=flat-square&logo=python&logoColor=F4EFE8)
 ![Pandas](https://img.shields.io/badge/Pandas-26364D?style=flat-square&logo=pandas&logoColor=F4EFE8)
