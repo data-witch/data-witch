@@ -7,7 +7,9 @@
 
 Тренировки и метрики Garmin сами попадают в таблицу бегового дашборда. Если Garmin ответил с ошибкой, уже заполненные ячейки не затираются.
 
-Python · GitHub Actions · Google Sheets
+![Python](https://img.shields.io/badge/Python-24765B?style=flat-square&logo=python&logoColor=F4EFE8)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-26364D?style=flat-square&logo=githubactions&logoColor=F4EFE8)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-24765B?style=flat-square&logo=googlesheets&logoColor=F4EFE8)
 
 [Открыть проект](https://github.com/data-witch/garmin-gsheets-run-sync)
 
@@ -17,7 +19,9 @@ Python · GitHub Actions · Google Sheets
 
 Учебные проекты в одном репозитории: музыка, кредиты, недвижимость, тарифы, отток и классификация.
 
-Python · Pandas · scikit-learn
+![Python](https://img.shields.io/badge/Python-24765B?style=flat-square&logo=python&logoColor=F4EFE8)
+![Pandas](https://img.shields.io/badge/Pandas-26364D?style=flat-square&logo=pandas&logoColor=F4EFE8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-24765B?style=flat-square&logo=scikitlearn&logoColor=F4EFE8)
 
 [Все проекты](https://github.com/data-witch/Practicum-by-Yandex)
 
