@@ -1,9 +1,9 @@
-<img src="assets/banner.png" alt="Гаак | Аналитика. Аналитик данных." width="100%">
+<img src="assets/banner.png" alt="Аналитик данных. Excel, Google Таблицы, SQL, Python." width="100%">
 
 
 ## Garmin → Google Sheets
 
-<img src="assets/metric-garmin.png" alt="2 раза в день: утро — закрытый день, вечер — тренировка." width="100%">
+<img src="assets/metric-garmin.png" alt="Тренировки Garmin в таблицу бегового дашборда, 2 раза в день." width="100%">
 
 Тренировки и метрики Garmin сами попадают в таблицу бегового дашборда. Если Garmin ответил с ошибкой, уже заполненные ячейки не затираются.
 
@@ -15,7 +15,7 @@
 
 ## Яндекс.Практикум
 
-<img src="assets/metric-practicum.png" alt="0.92 ROC AUC. Прогноз оттока: срок жизни клиента и ежемесячный платёж." width="100%">
+<img src="assets/metric-practicum.png" alt="Яндекс.Практикум. Прогноз оттока клиентов, 0.92 ROC AUC." width="100%">
 
 Учебные проекты в одном репозитории: музыка, кредиты, недвижимость, тарифы, отток и классификация.
 
